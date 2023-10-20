@@ -1,0 +1,260 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+  
+  }
+  
+  
+  
+  .container .navigation {
+    background-color: #C02000;
+    height: 48px;
+    line-height: 48px;
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+  }
+  
+  .container .navigation a {
+    color: #fff;
+    padding: 10px;
+    height: 100%;
+  
+  }
+  
+  .container .navigation a:hover {
+    background-color: #AF6507;
+    color: white;
+  }
+  
+  .container .navigation .home-bar {
+    padding-right: 250px;
+  }
+  
+  .container .navigation .location-bar {
+    padding-left: 250px;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  .title {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+  }
+  
+  body {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/002/063/350/original/chinese-traditional-oriental-background-red-clouds-ornament-pattern-on-red-background-chinese-new-year-art-concept-chinese-style-pattern-decoration-graphic-illustration-4k-size-wallpaper-vector.jpg");
+  }
+  
+  .img-box img{
+    width: 100%;
+    height: 100%;
+  }
+  .line1{
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .sitesource{
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 50px;
+  }
+  
+  .sitedate{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top:5px;
+    padding-left: 50px; 
+  }
+  
+  .text1{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 35px;
+    font-weight: bold;
+    width: 60%;
+    text-align: center;
+    padding-left: 265px;
+  }
+  
+  .img1 img{
+    width: 80%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  .caption1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color:#fff;
+    text-align: center;
+  }
+  
+  .title2{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+  }
+  
+  .line2{
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .text2{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 35px;
+    font-weight: bold;
+    width: 60%;
+    text-align: center;
+    padding-left: 265px;
+  }
+  
+  .img2 img{
+    width: 80%;
+    height: 45%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  
+  .caption2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color:#fff;
+    text-align: center;
+  }
+  
+  .line3{
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .title3{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+  }
+  
+  .text3{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 35px;
+    font-weight: bold;
+    width: 60%;
+    text-align: center;
+    padding-left: 265px;
+  }
+  
+  .text4{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 35px;
+    font-weight: bold;
+    width: 60%;
+    text-align: center;
+    padding-left: 265px;
+  }
+  
+  .img3 img{
+    width: 80%;
+    height: 45%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  
+  .caption3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color:#fff;
+    text-align: center;
+  }
+  
+  .line4{
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .title4{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+  }
+  
+  .caption4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color:#fff;
+    text-align: center;
+  }
+  
+  .line5{
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .title5{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+  }
+  
+  .text5{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 35px;
+    font-weight: bold;
+    width: 60%;
+    text-align: center;
+    padding-left: 265px;
+  }
+  
+  .img4 img{
+    width: 80%;
+    height: 45%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  
+  .footer{
+    background-color: #870000;
+    height: 160px;
+    width: 1349px;
+
+  }
+
+  .top {
+    padding-left: 620px;
+    padding-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+  }
+  
+  .top a{
+    color: #fff;
+  }
+
+  
+  .name{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #F69802;
+    padding-left: 70px;
+    padding-top: 30px;
+  }
