@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style src="./checkpoint1.css"></style>
+</head>
+<body>
+<script>
+func();
+function func(){
+    var name = getElementById("Name")
+    var password = getElementById("Password")
+    var date = getElementById("dd/mm/yy")
+
+    localStorage.setItem("name", name)
+    localStorage.setItem("password", password )
+    localStorage.setItem("date", date)
+}
+
+</script>
+
+    <h1>Form</h1>
+    
+    <div class="name">
+        <input type="text" id="Name">
+    </div>
+    
+<br>
+    
+    <div class="password">
+        <input type="number" id="Password">
+    </div>
+<br>
+    <div class="date">
+        <input type="date" id="dd/mm/yy">
+    </div>
+    
+<br>
+    <div class="button">
+        <button onclick="func()" type="button">Submit</button>
+    </div>
+    
+     
+
+</body>
+</html>
